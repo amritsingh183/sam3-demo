@@ -45,3 +45,8 @@ https://huggingface.co/AbacusGauge
 > Finding search box in a web page (search box)
 
 ![demo2](images/demo2.png)
+
+
+# License
+
+Check the LICENSE file
